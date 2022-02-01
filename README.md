@@ -1,5 +1,8 @@
 # MCUNetV2
+Subjects:	Computer Vision and Pattern Recognition (cs.CV)
+
 MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning
+Ji Lin, Wei-Ming Chen, Han Cai, Chuang Gan, Song Han
 
 https://arxiv.org/abs/2110.15352
 
@@ -12,3 +15,4 @@ We automate the process with neural architecture search to jointly optimize the 
 Co-designed with neural networks, MCUNetV2 sets a record ImageNet accuracy on MCU (71.8%), and achieves >90% accuracy on the visual wake words dataset under only 32kB SRAM. 
 
 MCUNetV2 also unblocks object detection on tiny devices, achieving 16.9% higher mAP on Pascal VOC compared to the state-of-the-art result. Our study largely addressed the memory bottleneck in tinyML and paved the way for various vision applications beyond image classification.
+
