@@ -2,6 +2,7 @@
 Subjects:	Computer Vision and Pattern Recognition (cs.CV)
 
 MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning
+
 Ji Lin, Wei-Ming Chen, Han Cai, Chuang Gan, Song Han
 
 https://arxiv.org/abs/2110.15352
